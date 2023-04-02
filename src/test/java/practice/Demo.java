@@ -9,6 +9,9 @@ public class Demo {
 	public void demo()
 	{
 		System.out.println("demo - new class");
+		
+		System.out.println("hi");
+		
 	}
 
 }
