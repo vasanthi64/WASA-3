@@ -9,6 +9,12 @@ public class practice {
 	public void sample()
 	{
 		System.out.println("sample");
+		
+		System.out.println("sample2");
+		
+		System.out.println("sample3");
+		
+		
 	}
 
 }
