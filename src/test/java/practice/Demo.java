@@ -12,6 +12,8 @@ public class Demo {
 		
 		System.out.println("hi");
 		
+		System.out.println("demo - new class2");
+		
 	}
 
 }
