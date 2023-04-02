@@ -14,6 +14,8 @@ public class Demo {
 		
 		System.out.println("demo - new class2");
 		
+		System.out.println("hello");
+		
 	}
 
 }

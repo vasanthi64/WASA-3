@@ -12,7 +12,7 @@ public class practice {
 		
 		System.out.println("sample2");
 		
-		
+		System.out.println("demo - new class");
 		
 		System.out.println("hello");
 		
