@@ -14,6 +14,8 @@ public class practice {
 		
 		System.out.println("sample1");
 		
+		System.out.println("hello");
+		
 		
 	}
 
